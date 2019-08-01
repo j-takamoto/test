@@ -1,5 +1,7 @@
 import cv2
 
+# opencv
+
 cap = cv2.VideoCapture(0)
 
 while True:
